@@ -146,7 +146,7 @@ def has_won(playerId, field):
                 else:
                     continue
             else:
-                break  # Wenn nicht, dann ist diese Szenario fehlgeschlagen
+                break  # Wenn nicht, dann ist dieses Szenario fehlgeschlagen
 
         if won:
             break
